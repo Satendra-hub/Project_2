@@ -1,4 +1,4 @@
-# Project_2_Simple Python Calculator A lightweight calculator app supporting addition, subtraction, multiplication, division, average, and percentage calculations (out of 500)
+# Project_2_Simple Python Calculator
 Simple Python Calculator
 A lightweight calculator app supporting addition, subtraction, multiplication, division, average, and percentage calculations (out of 500).
 
